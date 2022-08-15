@@ -14,3 +14,4 @@ if(close1){
         nav.classList.remove('active');
     })
 }
+
